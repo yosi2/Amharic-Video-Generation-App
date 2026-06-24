@@ -1,0 +1,6 @@
+{
+  "name": "Amharic Shorts",
+  "description": "An automated Amharic short-form script creator with an interactive visual preview player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
